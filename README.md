@@ -20,7 +20,7 @@ This repository contains UI automation test cases for the [Kaleidoscope](https:/
 
 ```
 
-kaleidoscope-automation/
+Kaleidoscope-UI-Automation/
 ├── src/
 │   ├── pages/               # Page Object Model classes
 │   ├── utils/             # Custom helper functions (email generator)
