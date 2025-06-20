@@ -41,8 +41,8 @@ kaleidoscope-automation/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/kaleidoscope-automation.git
-cd kaleidoscope-automation
+git clone https://github.com/gouravsharma1355/Kaleidoscope-UI-Automation.git
+cd Kaleidoscope-UI-Automation
 ````
 
 ### 2. Install dependencies
